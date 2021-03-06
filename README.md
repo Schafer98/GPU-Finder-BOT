@@ -5,12 +5,12 @@ Hello, I created a simple BOT for helping me find a new graphics card during the
 
 If you want to search for more than one GPU/Item at a time, create several different projects and run those simultaneously
 
-Requirements:
-  Python
-  Selenium - This is a webscraping software that you will need to install.  This link helped me link it up with pycharm: https://youtu.be/IYILCEV5j6s
-  Chrome Driver - https://youtu.be/7R5n0sNSza8
-  smtplib - This is what will send Text Messages via Email.  Helpful guide: https://gist.github.com/alexle/1294495
-  BestBuy - Newegg can detect that it's non human
+* Requirements:
+    * Python
+    * Selenium - This is a webscraping software that you will need to install.  This link helped me link it up with pycharm: https://youtu.be/IYILCEV5j6s
+    * Chrome Driver - https://youtu.be/7R5n0sNSza8
+    * smtplib - This is what will send Text Messages via Email.  Helpful guide: https://gist.github.com/alexle/1294495
+    * BestBuy - Newegg can detect that it's non human
   
- Other Helpful Sources:
+  Other Helpful Sources:
   https://youtu.be/3mRssb4AlqI
